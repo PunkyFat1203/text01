@@ -1,0 +1,59 @@
+.box {
+    width: 100PX;
+    height: 100PX;
+    line-height: 80PX;
+    /* background : #dedede; */
+    background-color: rgb(45, 60, 189);
+    /* background-size: cover; */
+    /* background-image: url(/images/AdobeStock_240042551-400x400.jpeg); */
+    background-image: url(/images/00.jpeg);
+    background-repeat:repeat ;
+    text-align: center;
+    margin: auto;
+    border: 2PX solid red;
+    padding: 10PX;
+    box-sizing: border-box;
+    word-break: break-all;
+    color: blueviolet;
+    font-size: 20PX;
+    font-weight: 400;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.box2 {
+    width:100px;
+    height: 100px;
+    box-sizing: border-box;
+    border:3px solid #000;
+    background: #dedede;
+    color: red;
+    padding: 10px;
+}
+
+.button {
+    /* width: 100px;
+    height: 50px;
+    line-height: 50px; */
+    background: #3564e4;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    padding:10px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.circle {
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background: yellow;
+}
+
+.block {
+    background: #000;
+    color: #fff;
+    height: 100px;
+    overflow-y: hidden;
+    margin: 20px auto;
+}
